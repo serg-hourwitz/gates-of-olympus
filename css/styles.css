@@ -76,6 +76,10 @@ h1 {
     font-size: 16px;
   }
 
+  .game-img {
+    width: 100%;
+  }
+
   .cta-btn {
     padding: 20px;
     font-size: 18px;

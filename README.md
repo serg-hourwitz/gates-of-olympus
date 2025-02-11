@@ -1,1 +1,1 @@
-# games-of-olympus
+# gates-of-olympus
